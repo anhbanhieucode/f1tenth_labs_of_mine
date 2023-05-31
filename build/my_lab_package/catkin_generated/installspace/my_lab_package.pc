@@ -1,0 +1,8 @@
+prefix=/home/anhbanhieu/catkin_ws/install
+
+Name: my_lab_package
+Description: Description of my_lab_package
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

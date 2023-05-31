@@ -1,0 +1,8 @@
+prefix=/home/anhbanhieu/catkin_ws/devel
+
+Name: rrt
+Description: Description of rrt
+Version: 0.0.0
+Cflags: -I/home/anhbanhieu/catkin_ws/src/f1tenth_labs/lab7/code/include
+Libs: -L${prefix}/lib -lrrt
+Requires: ackermann_msgs geometry_msgs roscpp rospy sensor_msgs std_msgs tf
