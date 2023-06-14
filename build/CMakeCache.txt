@@ -413,12 +413,6 @@ catkin_DIR:PATH=/opt/ros/noetic/share/catkin/cmake
 cpp_common_DIR:PATH=/opt/ros/noetic/share/cpp_common/cmake
 
 //Value Computed by CMake
-f110_description_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/f1tenth_labs/cartographer_config/f110_description
-
-//Value Computed by CMake
-f110_description_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/f1tenth_labs/cartographer_config/f110_description
-
-//Value Computed by CMake
 f1tenth_simulator_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/f1tenth_simulator
 
 //Value Computed by CMake
@@ -506,26 +500,14 @@ message_generation_DIR:PATH=/opt/ros/noetic/share/message_generation/cmake
 //The directory containing a CMake configuration file for message_runtime.
 message_runtime_DIR:PATH=/opt/ros/noetic/share/message_runtime/cmake
 
-//Value Computed by CMake
-my_lab_package_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/my_lab_package
-
-//Value Computed by CMake
-my_lab_package_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/my_lab_package
-
 //The directory containing a CMake configuration file for nav_msgs.
 nav_msgs_DIR:PATH=/opt/ros/noetic/share/nav_msgs/cmake
 
 //Value Computed by CMake
-pure_pursuit_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/f1tenth_labs/lab6/code
+pure_pursuit_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/lab6/code
 
 //Value Computed by CMake
-pure_pursuit_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/f1tenth_labs/lab6/code
-
-//Value Computed by CMake
-reactive_methods_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/f1tenth_labs/lab4/code
-
-//Value Computed by CMake
-reactive_methods_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/f1tenth_labs/lab4/code
+pure_pursuit_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/lab6/code
 
 //The directory containing a CMake configuration file for rosconsole.
 rosconsole_DIR:PATH=/opt/ros/noetic/share/rosconsole/cmake
@@ -558,22 +540,16 @@ rospy_DIR:PATH=/opt/ros/noetic/share/rospy/cmake
 rostime_DIR:PATH=/opt/ros/noetic/share/rostime/cmake
 
 //Value Computed by CMake
-rrt_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/f1tenth_labs/lab7/code
+rrt_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/lab7/code
 
 //Value Computed by CMake
-rrt_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/f1tenth_labs/lab7/code
+rrt_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/lab7/code
 
 //Value Computed by CMake
-safety_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/f1tenth_labs/lab2/code
+scan_matching_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/scan_matching_lab5/code
 
 //Value Computed by CMake
-safety_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/f1tenth_labs/lab2/code
-
-//Value Computed by CMake
-scan_matching_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/f1tenth_labs/lab5/code
-
-//Value Computed by CMake
-scan_matching_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/f1tenth_labs/lab5/code
+scan_matching_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/scan_matching_lab5/code
 
 //The directory containing a CMake configuration file for sensor_msgs.
 sensor_msgs_DIR:PATH=/opt/ros/noetic/share/sensor_msgs/cmake
@@ -603,16 +579,10 @@ tf_DIR:PATH=/opt/ros/noetic/share/tf/cmake
 visualization_msgs_DIR:PATH=/opt/ros/noetic/share/visualization_msgs/cmake
 
 //Value Computed by CMake
-wall_follow_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/f1tenth_labs/lab3/code
+waypoint_logger_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/waypoint_logger
 
 //Value Computed by CMake
-wall_follow_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/f1tenth_labs/lab3/code
-
-//Value Computed by CMake
-waypoint_logger_BINARY_DIR:STATIC=/home/anhbanhieu/catkin_ws/build/f1tenth_labs/waypoint_logger
-
-//Value Computed by CMake
-waypoint_logger_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/f1tenth_labs/waypoint_logger
+waypoint_logger_SOURCE_DIR:STATIC=/home/anhbanhieu/catkin_ws/src/waypoint_logger
 
 //The directory containing a CMake configuration file for xmlrpcpp.
 xmlrpcpp_DIR:PATH=/opt/ros/noetic/share/xmlrpcpp/cmake
@@ -765,7 +735,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=14
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=9
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

@@ -1,2 +1,2 @@
-f1tenth_labs/cartographer_config/f110_description:f1tenth_labs/lab2/code:f1tenth_labs/lab3/code:f1tenth_labs/lab4/code:f1tenth_labs/lab5/code:f1tenth_labs/lab6/code:f1tenth_labs/lab7/code:f1tenth_labs/waypoint_logger:f1tenth_simulator:my_lab_package
+f1tenth_simulator:lab6/code:lab7/code:scan_matching_lab5/code:waypoint_logger
 -DCATKIN_DEVEL_PREFIX=/home/anhbanhieu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anhbanhieu/catkin_ws/install -G Unix Makefiles
