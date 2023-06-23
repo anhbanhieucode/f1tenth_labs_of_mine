@@ -1,0 +1,31 @@
+[
+{
+  "directory": "/home/anhbanhieu/catkin_ws/build",
+  "command": "/usr/bin/g++   -I/home/anhbanhieu/catkin_ws/src/f1tenth_simulator/include  -Wall -Wextra -g   -std=gnu++11 -o CMakeFiles/f1tenth_simulator.dir/src/distance_transform.cpp.o -c /home/anhbanhieu/catkin_ws/src/f1tenth_simulator/src/distance_transform.cpp",
+  "file": "/home/anhbanhieu/catkin_ws/src/f1tenth_simulator/src/distance_transform.cpp"
+},
+
+{
+  "directory": "/home/anhbanhieu/catkin_ws/build",
+  "command": "/usr/bin/g++   -I/home/anhbanhieu/catkin_ws/src/f1tenth_simulator/include  -Wall -Wextra -g   -std=gnu++11 -o CMakeFiles/f1tenth_simulator.dir/src/ks_kinematics.cpp.o -c /home/anhbanhieu/catkin_ws/src/f1tenth_simulator/src/ks_kinematics.cpp",
+  "file": "/home/anhbanhieu/catkin_ws/src/f1tenth_simulator/src/ks_kinematics.cpp"
+},
+
+{
+  "directory": "/home/anhbanhieu/catkin_ws/build",
+  "command": "/usr/bin/g++   -I/home/anhbanhieu/catkin_ws/src/f1tenth_simulator/include  -Wall -Wextra -g   -std=gnu++11 -o CMakeFiles/f1tenth_simulator.dir/src/precompute.cpp.o -c /home/anhbanhieu/catkin_ws/src/f1tenth_simulator/src/precompute.cpp",
+  "file": "/home/anhbanhieu/catkin_ws/src/f1tenth_simulator/src/precompute.cpp"
+},
+
+{
+  "directory": "/home/anhbanhieu/catkin_ws/build",
+  "command": "/usr/bin/g++   -I/home/anhbanhieu/catkin_ws/src/f1tenth_simulator/include  -Wall -Wextra -g   -std=gnu++11 -o CMakeFiles/f1tenth_simulator.dir/src/scan_simulator_2d.cpp.o -c /home/anhbanhieu/catkin_ws/src/f1tenth_simulator/src/scan_simulator_2d.cpp",
+  "file": "/home/anhbanhieu/catkin_ws/src/f1tenth_simulator/src/scan_simulator_2d.cpp"
+},
+
+{
+  "directory": "/home/anhbanhieu/catkin_ws/build",
+  "command": "/usr/bin/g++   -I/home/anhbanhieu/catkin_ws/src/f1tenth_simulator/include  -Wall -Wextra -g   -std=gnu++11 -o CMakeFiles/f1tenth_simulator.dir/src/st_kinematics.cpp.o -c /home/anhbanhieu/catkin_ws/src/f1tenth_simulator/src/st_kinematics.cpp",
+  "file": "/home/anhbanhieu/catkin_ws/src/f1tenth_simulator/src/st_kinematics.cpp"
+}
+]
